@@ -1,0 +1,12 @@
+site:
+  title: Nexum
+  description: Nexum project site
+nav:
+  view_project: View the Project on GitHub
+  view_profile: View My GitHub Profile
+footer:
+  maintained_by: This project is maintained by
+  hosted_on: Hosted on GitHub Pages
+  theme_by: Theme by
+home:
+  language_label: Language

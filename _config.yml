@@ -1,4 +1,29 @@
+github_username: nexum-prime
+github_repository: nexum-prime.github.io
+github_url: https://github.com/nexum-prime
+repository_url: https://github.com/nexum-prime/nexum-prime.github.io
+url: ""
+baseurl: ""
 title: Nexum
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
-- jekyll-remote-theme
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-multiple-languages-plugin
+languages: ["pt-BR", "en-US"]
+default_lang: "pt-BR"
+default_locale_in_subfolder: false
+exclude_from_localizations: ["assets", "images", "css", "js"]
+parallel_localization: true
+exclude:
+  - .vscode/
+  - run.sh
+  - vscode-local.md
+  - README.md
+  - pt-br.md
+  - en-us.md
+sass:
+  style: compressed
+  quiet_deps: true
+  silence_deprecations:
+    - import
