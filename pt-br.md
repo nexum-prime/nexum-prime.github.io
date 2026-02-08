@@ -22,7 +22,9 @@ Conforme a necessidade do atendimento, poderão ser solicitados ao paciente víd
 
 ## 🩺 Anamnese
 
-A realização de uma anamnese é necessária em qualquer situação. O procedimento tem duração aproximada de 10 minutos e não possui custo.
+<p style="background:#7b4a9e;color:#fff;font-weight:700;padding:10px 12px;border-radius:6px;">
+A anamnese é obrigatória em qualquer situação, com duração aproximada de 10 minutos, podendo ser realizada de forma remota ou presencial, sem custo.
+</p>
 
 Quando o paciente procura um tratamento específico, suas necessidades são avaliadas a fim de determinar as ações mais adequadas.
 
@@ -104,3 +106,41 @@ As informações aqui apresentadas possuem caráter metafísico e terapêutico c
 As descrições apresentadas utilizam linguagem simbólica e conceitual própria do campo metafísico, não devendo ser interpretadas como procedimentos médicos, clínicos ou científicos.
 
 As informações disponibilizadas não configuram diagnóstico, prescrição ou garantia de resultados, sendo aplicadas de forma individual e condicionadas à avaliação prévia por anamnese.
+
+## 📘 Glossário
+
+### Alma
+
+Princípio imaterial associado à identidade e à continuidade do ser, integrando dimensões emocionais, psíquicas e existenciais, independentemente do corpo físico.
+
+### Consciência
+
+Campo metafísico de percepção e experiência a partir do qual pensamentos, emoções e estados de ser são observados e organizados.
+
+### Anamnese
+
+Procedimento inicial de avaliação utilizado para compreender o contexto do indivíduo e indicar a abordagem metafísica complementar mais adequada, sem caráter médico ou clínico.
+
+### Ferramentas
+
+Conjunto de práticas terapêuticas de caráter complementar aplicadas após anamnese, voltadas ao equilíbrio emocional, energético e espiritual.
+
+### Campo Metafísico
+
+Expressão conceitual utilizada para descrever aspectos não físicos relacionados à experiência subjetiva, energética e espiritual do indivíduo.
+
+### Leitura de Sonhos
+
+Processo de análise simbólica de experiências oníricas, com foco na compreensão de significados subjetivos e padrões emocionais.
+
+### Câmara Multidimensional de Cura
+
+Procedimento metafísico complementar descrito por meio de linguagem simbólica, voltado ao equilíbrio emocional, psíquico e físico, sem caráter médico.
+
+### Intervenção Metafísica de Alta Complexidade
+
+Procedimento metafísico complementar de atuação profunda no campo metafísico do indivíduo, aplicado em situações que demandam intervenção estrutural em nível sutil.
+
+### Regente
+
+Termo conceitual utilizado para designar a instância orientadora responsável pela indicação de determinadas abordagens metafísicas no contexto do Nexum.

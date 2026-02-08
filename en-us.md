@@ -22,7 +22,9 @@ Depending on the nature of the service, the individual may be asked to provide v
 
 ## 🩺 Anamnesis
 
-An anamnesis is required in all cases. The procedure lasts approximately 10 minutes and is free of charge.
+<p style="background:#7b4a9e;color:#fff;font-weight:700;padding:10px 12px;border-radius:6px;">
+An anamnesis is required in all cases, lasts approximately 10 minutes, and can be performed remotely or in person, free of charge.
+</p>
 
 When an individual seeks a specific treatment, their needs are assessed in order to determine the most appropriate course of action.
 
@@ -104,3 +106,41 @@ The information presented here is metaphysical and complementary therapeutic in 
 The descriptions provided use symbolic and conceptual language specific to the metaphysical field and should not be interpreted as medical, clinical, or scientific procedures.
 
 The information presented does not constitute diagnosis, prescription, or any guarantee of results. All practices are applied individually and are subject to prior assessment through anamnesis.
+
+## 📘 Glossary
+
+### Soul
+
+An immaterial principle associated with identity and continuity of being, integrating emotional, psychological, and existential dimensions, independently of the physical body.
+
+### Consciousness
+
+A metaphysical field of perception and experience through which thoughts, emotions, and states of being are observed and organized.
+
+### Anamnesis
+
+An initial assessment procedure used to understand the individual’s context and to indicate the most appropriate complementary metaphysical approach, without medical or clinical character.
+
+### Tools
+
+A set of complementary therapeutic practices applied after anamnesis, aimed at emotional, energetic, and spiritual balance.
+
+### Metaphysical Field
+
+A conceptual expression used to describe non-physical aspects related to the individual’s subjective, energetic, and spiritual experience.
+
+### Dream Reading
+
+A process of symbolic analysis of dream experiences, focused on understanding subjective meanings and emotional patterns.
+
+### Multidimensional Healing Chamber
+
+A complementary metaphysical procedure described through symbolic language, aimed at emotional, psychological, and physical balance, without medical character.
+
+### High-Complexity Metaphysical Intervention
+
+A complementary metaphysical procedure involving deep action within the individual’s metaphysical field, applied in situations that require structural intervention at a subtle level.
+
+### Regent
+
+A conceptual term used to designate the guiding instance responsible for indicating specific metaphysical approaches within the context of Nexum.
