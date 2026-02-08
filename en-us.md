@@ -1,53 +1,58 @@
-# About the Tools
+## 🧩 About the Tools
 
-The tools presented here are complementary therapeutic practices applied after an anamnesis assessment, aimed at emotional, energetic, and spiritual balance, without replacing medical treatment, and may be carried out in person or remotely.
+The tools presented are complementary therapeutic practices applied after an initial anamnesis (assessment), aiming at emotional, energetic, and spiritual balance. They do not replace medical treatments and may be provided in person or remotely.
 
 ## 🚨 Attention
 
-<p style="background:#c62828;color:#fff;font-weight:700;padding:10px 12px;border-radius:6px;">This document may only be shared with third parties if the holder has already participated in one or more of the tools described below.</p>
+<p style="background:#c66a28;color:#fff;font-weight:700;padding:10px 12px;border-radius:6px;">
+This document may only be shared with third parties if the holder has already participated in one or more of the tools described below.
+</p>
 
-Not all situations are treatable, since in many cases what the patient is facing is a trial, a necessary experience in their path. In these cases, everything possible will be done to help them go through this process in the best possible way.
+Not all situations are treatable, as in many cases what the individual is experiencing constitutes a trial — a necessary experience in their personal journey. In such situations, every effort will be made to provide support and guidance throughout the process.
 
-Under no circumstances should medical treatments be interrupted or neglected. All clinical follow-up must be maintained until formal guidance or release by the responsible physician.
+All tools described are of a general nature; therefore, it is recommended to get in touch to identify which approach best fits each case. For this purpose, an anamnesis may be conducted.
 
-All tools described are general in nature; therefore, it is recommended to get in touch to identify which one is most appropriate for your case, and an anamnesis may be conducted for this purpose.
+An anamnesis is mandatory for any service and is used to assess the case and define the most appropriate approach.
 
-Depending on the needs of the service, the patient may be asked to provide videos, video calls, or photographs.
+During the anamnesis, indications for additional procedures may be identified, and it is up to the individual to decide whether or not to proceed with them.
+
+In some cases, it may be necessary to decline the service, in which case the individual will be properly informed of the reasons for that decision.
+
+Depending on the nature of the service, the individual may be asked to provide videos, participate in video calls, or submit photographs.
 
 ## 🩺 Anamnesis
 
-- An anamnesis is required in all cases. The procedure lasts approximately 10 minutes and has no cost.
-- If the patient is seeking a specific treatment, their needs are analyzed to determine the most appropriate actions.
-- During the anamnesis, indications for other procedures may be identified, and the patient may choose whether to accept them.
-- In some cases, care may need to be declined, and the patient will be properly informed of the reasons for that decision.
+An anamnesis is required in all cases. The procedure lasts approximately 10 minutes and is free of charge.
+
+When an individual seeks a specific treatment, their needs are assessed in order to determine the most appropriate course of action.
 
 ## 🧹🙆🏻‍♀️ Personal Cleansing
 
-Removal of lower spiritual parasites, harmonization of the resonant field, aura, and chakras, as well as the creation of a temporary protective bubble, among other procedures.
+A therapeutic approach aimed at removing low-frequency spiritual interferences, harmonizing the resonant field, aura, and chakras, as well as applying a temporary protective field, among other procedures.
 
 ### Indications
 
-Sleep disorders, unusual sensations, mental agitation (such as excessive thoughts), anxiety, among others.
+Sleep disturbances, unusual sensations, mental agitation (such as excessive thoughts), anxiety, among others.
 
 ### About the Procedure
 
 - **In person or remote**
 - **Duration:** 15 minutes
-- **Exchange value:** R$ 60,00
+- **Session fee:** R$ 60,00
 
 ## 🧹🏠 Home Cleansing
 
-Removal of spiritual impurities, removal of lower entities with referral to the astral plane, addition of harmonizing nuclei, and application of a temporary protective bubble.
+A therapeutic approach focused on the energetic harmonization of the environment, including the reorganization of the location’s energy field, guiding low-frequency spiritual interferences to the appropriate metaphysical level, the addition of harmonizing nuclei, and the application of a temporary protective field.
 
 ### Indications
 
-Nightmares, restless sleep, conflicts in the family environment, agitation, objects breaking, and a heavy feeling when arriving home, among others.
+Nightmares, restless sleep, family conflicts, agitation, objects breaking, and a feeling of heaviness when arriving home, among others.
 
 ### About the Procedure
 
-- **In person (residential only in Blumenau) or remote**
+- **In person (Blumenau/SC only) or remote**
 - **Duration:** 20 minutes
-- **Exchange value:** R$ 80,00
+- **Session fee:** R$ 80,00
 
 ## 🌛 Dream Reading
 
@@ -55,37 +60,47 @@ In-depth analysis and interpretation of dreams.
 
 ### Indication
 
-Recurring dreams or significant dream experiences for which the individual seeks guidance and better understanding of their meanings.
+Recurring dreams or significant dream experiences for which the individual seeks guidance and a deeper understanding of their meanings.
 
 ## About the Procedure
 
-- **In person or video call with conversation**
-- **Duration:** 30 minutes on average
-- **Exchange value:** R$ 60,00
+- **In person or via video call**
+- **Average duration:** 30 minutes
+- **Session fee:** R$ 60,00
 
 ## ❤️‍🩹 Multidimensional Healing Chamber
 
-Opening of seven dimensions aimed at promoting healing in the emotional, psychological, and physical spheres.
+Activation of multiple therapeutic dimensions aimed at emotional, psychological, and physical balance.
 
 ### Indications
 
-Situations may involve obsessors, mental confusion, psychological disorders, health issues (always as a complement to traditional medicine), as well as family, relational, professional, and financial matters, among others.
+Situations may involve spiritual interferences, mental confusion, psychological disturbances, or health-related concerns — always as a complement to traditional medicine, which must not be disregarded or neglected — as well as family, relational, professional, and financial matters, among others.
 
 ### About the Procedure
 
 - **In person or remote**
 - **Duration:** 30 minutes
-- **Feedback on everything that was opened in the chamber**
-- **Guidance on what needs to be done after the chamber**
+- **Feedback on the processes performed**
+- **Post-session guidance**
 - **Therapeutic counseling**
-- **Exchange value:** R$ 150,00
+- **Session fee:** R$ 150,00
 
-## 😷 Spiritual Surgeries
+## 😷 High-Complexity Metaphysical Intervention
 
-Specific treatment defined based on the regent's indication.
+A procedure aimed at deep intervention within the individual’s metaphysical field, defined through prior assessment and the regent’s indication, and applied in situations that require structural action at a subtle level.
 
 ### About the Procedure
 
 - **Remote only**
 - **Duration:** 1 hour
-- **Exchange value:** R$ 200,00
+- **Session fee:** R$ 200,00
+
+## 🛡️ Disclaimer
+
+<p style="background:#c62828;color:#fff;font-weight:700;padding:10px 12px;border-radius:6px;">
+The information presented here is metaphysical and complementary therapeutic in nature and does not, under any circumstances, replace medical or psychological treatments or clinical follow-up, which must be maintained until formal guidance or release by the responsible physician.
+</p>
+
+The descriptions provided use symbolic and conceptual language specific to the metaphysical field and should not be interpreted as medical, clinical, or scientific procedures.
+
+The information presented does not constitute diagnosis, prescription, or any guarantee of results. All practices are applied individually and are subject to prior assessment through anamnesis.
