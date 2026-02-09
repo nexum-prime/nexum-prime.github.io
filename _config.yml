@@ -1,21 +1,22 @@
+url: ""
+baseurl: ""
+remote_theme: pages-themes/minimal@v0.2.0
+logo: /assets/img/nexum.png
+languages: ["pt-BR", "en-US"]
+default_lang: "pt-BR"
+default_locale_in_subfolder: false
+parallel_localization: true
+
 github_username: nexum-prime
 github_repository: nexum-prime.github.io
 github_url: https://github.com/nexum-prime
 repository_url: https://github.com/nexum-prime/nexum-prime.github.io
-url: ""
-baseurl: ""
-title: Nexum
-logo: /assets/img/nexum.png
-remote_theme: pages-themes/minimal@v0.2.0
+
+exclude_from_localizations: ["assets", "images", "css", "js"]
 plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
   - jekyll-multiple-languages-plugin
-languages: ["pt-BR", "en-US"]
-default_lang: "pt-BR"
-default_locale_in_subfolder: false
-exclude_from_localizations: ["assets", "images", "css", "js"]
-parallel_localization: true
 exclude:
   - .vscode/
   - run.sh
