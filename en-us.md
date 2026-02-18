@@ -1,6 +1,6 @@
 ## 🧩 About the Tools
 
-The tools presented are complementary therapeutic practices applied after an initial anamnesis (assessment), aiming at emotional, energetic, and spiritual balance. They do not replace medical treatments and may be provided in person or remotely.
+**<span style="color: #267cb9;">Nexum Prime</span>** operates as a therapeutic approach **<span style="color: #c66a28;">complementary to traditional medicine</span>**. Its tools are applied after an initial assessment through anamnesis, with the purpose of supporting the individual in their process of self-discovery and inner realignment, promoting physical, mental, emotional, and spiritual balance.
 
 ## 🚨 Attention
 
@@ -8,7 +8,7 @@ The tools presented are complementary therapeutic practices applied after an ini
 This document may only be shared with third parties if the holder has already participated in one or more of the tools described below.
 </p>
 
-Not all situations are treatable, as in many cases what the individual is experiencing constitutes a trial — a necessary experience in their personal journey. In such situations, every effort will be made to provide support and guidance throughout the process.
+Not all situations will be addressed, as in many cases what the individual is facing may constitute a trial — a necessary experience in their personal journey. In such cases, support and guidance may be offered to assist them through this process.
 
 All tools described are of a general nature; therefore, it is recommended to get in touch to identify which approach best fits each case. For this purpose, an anamnesis may be conducted.
 
@@ -26,7 +26,7 @@ Depending on the nature of the service, the individual may be asked to provide v
 An anamnesis is required in all cases, lasts approximately 10 minutes, and can be performed remotely or in person, free of charge.
 </p>
 
-When an individual seeks a specific treatment, their needs are assessed in order to determine the most appropriate course of action.
+When an individual seeks a specific tool, their needs are assessed to determine whether the requested approach is appropriate within this context.
 
 ## 🧹🙆🏻‍♀️ Personal Cleansing
 
@@ -70,7 +70,7 @@ Recurring dreams or significant dream experiences for which the individual seeks
 - **Average duration:** 30 minutes
 - **Session fee:** R$ 60,00
 
-## ❤️‍🩹 Multidimensional Healing Chamber
+## ❤️‍🩹 Multidimensional Chamber
 
 Activation of multiple therapeutic dimensions aimed at emotional, psychological, and physical balance.
 
@@ -106,41 +106,3 @@ The information presented here is metaphysical and complementary therapeutic in 
 The descriptions provided use symbolic and conceptual language specific to the metaphysical field and should not be interpreted as medical, clinical, or scientific procedures.
 
 The information presented does not constitute diagnosis, prescription, or any guarantee of results. All practices are applied individually and are subject to prior assessment through anamnesis.
-
-## 📘 Glossary
-
-### Soul
-
-An immaterial principle associated with identity and continuity of being, integrating emotional, psychological, and existential dimensions, independently of the physical body.
-
-### Consciousness
-
-A metaphysical field of perception and experience through which thoughts, emotions, and states of being are observed and organized.
-
-### Anamnesis
-
-An initial assessment procedure used to understand the individual’s context and to indicate the most appropriate complementary metaphysical approach, without medical or clinical character.
-
-### Tools
-
-A set of complementary therapeutic practices applied after anamnesis, aimed at emotional, energetic, and spiritual balance.
-
-### Metaphysical Field
-
-A conceptual expression used to describe non-physical aspects related to the individual’s subjective, energetic, and spiritual experience.
-
-### Dream Reading
-
-A process of symbolic analysis of dream experiences, focused on understanding subjective meanings and emotional patterns.
-
-### Multidimensional Healing Chamber
-
-A complementary metaphysical procedure described through symbolic language, aimed at emotional, psychological, and physical balance, without medical character.
-
-### High-Complexity Metaphysical Intervention
-
-A complementary metaphysical procedure involving deep action within the individual’s metaphysical field, applied in situations that require structural intervention at a subtle level.
-
-### Regent
-
-A conceptual term used to designate the guiding instance responsible for indicating specific metaphysical approaches within the context of Nexum.
